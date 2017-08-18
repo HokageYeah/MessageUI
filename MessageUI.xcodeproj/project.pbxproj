@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					F86587F11E764FA400A1CE79 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = J4E37J446A;
 						ProvisioningStyle = Automatic;
 					};
 					F865880A1E764FA400A1CE79 = {
@@ -422,7 +423,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = J4E37J446A;
 				INFOPLIST_FILE = MessageUI/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = yuye.MessageUI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -433,7 +436,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = J4E37J446A;
 				INFOPLIST_FILE = MessageUI/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = yuye.MessageUI;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -505,6 +510,7 @@
 				F86588211E764FA400A1CE79 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F86588221E764FA400A1CE79 /* Build configuration list for PBXNativeTarget "MessageUITests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +519,7 @@
 				F86588241E764FA400A1CE79 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F86588251E764FA400A1CE79 /* Build configuration list for PBXNativeTarget "MessageUIUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +528,7 @@
 				F86588271E764FA400A1CE79 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
